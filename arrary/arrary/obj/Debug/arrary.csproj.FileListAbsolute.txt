@@ -1,0 +1,7 @@
+C:\Users\Kavindu Hashan\source\repos\arrary\arrary\obj\Debug\arrary.csproj.AssemblyReference.cache
+C:\Users\Kavindu Hashan\source\repos\arrary\arrary\obj\Debug\arrary.csproj.CoreCompileInputs.cache
+C:\Users\Kavindu Hashan\source\repos\arrary\arrary\bin\Debug\arrary.exe.config
+C:\Users\Kavindu Hashan\source\repos\arrary\arrary\bin\Debug\arrary.exe
+C:\Users\Kavindu Hashan\source\repos\arrary\arrary\bin\Debug\arrary.pdb
+C:\Users\Kavindu Hashan\source\repos\arrary\arrary\obj\Debug\arrary.exe
+C:\Users\Kavindu Hashan\source\repos\arrary\arrary\obj\Debug\arrary.pdb
